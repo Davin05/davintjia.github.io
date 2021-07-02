@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, University of Washington, 2012
+* B.S. in Engineering, University of Washington, 20
 
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University

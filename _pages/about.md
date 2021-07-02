@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 Welcome to the home page of Davin Tjia's personal website. I am a second-year undergraduate student in University of Washington's honors program studying engineering. 
@@ -15,6 +16,8 @@ cooking and baking, and anything related to basketball. Currently, I am most exc
 Washington for the first time of my life despite being their student for a full year. 
 
 
+
 ! This site is under construction: recently Move From Google Site to GitHub Page ! 
------
+---
 Please come back later, thank you!
+
