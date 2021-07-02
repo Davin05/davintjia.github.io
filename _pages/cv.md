@@ -3,14 +3,15 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 
-{% include base_path %}
+
 
 Education
 ======
-* B.S. in Engineering, University of Washington, 2024 (expected)
+* B.S. in Engineering, University of Washington, 2012
 
 
 Work experience
