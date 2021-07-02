@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "davin05@UW.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -99,14 +99,14 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/davint_0519"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
