@@ -3,9 +3,6 @@ permalink: /
 title: "Davin Tjia's Home Page"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Welcome to the home page of Davin Tjia's personal website. I am a second-year undergraduate student in University of Washington's honors program studying engineering. 
