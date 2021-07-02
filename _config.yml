@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Davin Tjia"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Davin Tjia"
 description              : &description "personal description"
 url                      : "https://davin05.github.io/davintjia.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -200,6 +200,7 @@ defaults:
       author_profile: true
       read_time: true
       comment: true
+      comments: true
       share: false
       related: true
   # _pages
@@ -233,9 +234,10 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: true
+      author_profile: true
+      share: false
       comment: true
+      comments: true
       related: true
   # _talks
   - scope:
