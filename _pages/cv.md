@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 
-
 Education
 ======
-* B.S. in Engineering, University of Washington, 20
+* B.S. in Engineering, University of Washington, 2024
 
 
 Experience
