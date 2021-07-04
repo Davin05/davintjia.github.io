@@ -202,7 +202,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comment: true
       comments: true
       share: false
       related: true
@@ -239,7 +238,6 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: true
       comments: true
       related: true
   # _talks
