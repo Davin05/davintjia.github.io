@@ -44,40 +44,40 @@ Skills
   * Chinese
 
 
-Publications
+[comment]: <> (Publications)
 
-======
+[comment]: <> (======)
 
-  <ul>{% for post in site.publications %}
+[comment]: <> (  <ul>{% for post in site.publications %})
 
-    {% include archive-single-cv.html %}
+[comment]: <> (    {% include archive-single-cv.html %})
 
-  {% endfor %}</ul>
+[comment]: <> (  {% endfor %}</ul>)
   
-Talks
+[comment]: <> (Talks)
 
-======
+[comment]: <> (======)
 
-  <ul>{% for post in site.talks %}
+[comment]: <> (  <ul>{% for post in site.talks %})
 
-    {% include archive-single-talk-cv.html %}
+[comment]: <> (    {% include archive-single-talk-cv.html %})
 
-  {% endfor %}</ul>
+[comment]: <> (  {% endfor %}</ul>)
   
-Teaching
+[comment]: <> (Teaching)
 
-======
+[comment]: <> (======)
 
-  <ul>{% for post in site.teaching %}
+[comment]: <> (  <ul>{% for post in site.teaching %})
 
-    {% include archive-single-cv.html %}
+[comment]: <> (    {% include archive-single-cv.html %})
 
-  {% endfor %}</ul>
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
+[comment]: <> (Service and leadership)
 
-======
+[comment]: <> (======)
 
-* Currently signed in to 43 different slack teams
+[comment]: <> (* Currently signed in to 43 different slack teams)
 
-%%
+[comment]: <> (%%)
