@@ -9,15 +9,11 @@ redirect_from:
 
 ---
 
-Welcome to the home page of Davin Tjia's personal website. I am a second-year undergraduate student in University of Washington's honors program studying engineering. 
-I am most passionate about the interdisciplinary field of computational neuroscience, especially the cross-over between theoretical neuroscience and computer science. 
-In addition, I am also interested in mathematics, bioengineering, and biological science in general. Outside of school, I enjoy reading, watching movies and TV shows, 
-cooking and baking, and anything related to basketball. Currently, I am most excited about moving to Seattle in mid-September and stepping on Unviersity of 
-Washington's campus for the first time despite, ironically, being their student for a full year. 
+Hi, this is Davin. I am a third year undergrad student at University of Washington studying computer science. I am in 
+[WEIRD](https://weirdlab.cs.washington.edu/) lab advised by [Abhishek Gupta](https://abhishekunique.github.io/). I am interested in 
+Robotics, Reinforcement Learning, Natural Language Processing, Computer Vision, and other Deep Learning related applications. I am particularly
+passionate about teaching robots to perceive this world, whether it is through interactions, language feedbacks, or visual cues. 
 
+In my free time, I love watching movies and TV shows, reading, and hanging out with my friends. I also love watching basketball and follow NBA closely.
 
-
-! This site is under construction: recently Move From Google Site to GitHub Page ! 
----
-Please come back later, thank you!
-
+Feel free to contact me through my email.
