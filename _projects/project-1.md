@@ -1,5 +1,5 @@
 ---
-title: "PageRank Algorithm Paper"
+title: "PageRank Algorithm Mini-Paper"
 collection: projects
 permalink: /projects/2021-Math-136-final-project
 excerpt: 'This is a amateur paper on PageRank that we wrote as part of our final'
