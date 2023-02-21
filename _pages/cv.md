@@ -33,16 +33,25 @@ Education
 
 [comment]: <> (  * Supervisor: Professor Hub)
   
-Skills
-======
-* Programming Language
-  * Java
-  * Python
-  * R
-  * MATLAB
-* Language
-  * English
-  * Chinese
+[comment]: # (Skills)
+
+[comment]: # (======)
+
+[comment]: # (* Programming Language)
+
+[//]: # (  * Java)
+
+[comment]: # (  * Python)
+
+[comment]: # (  * R)
+
+[comment]: # (  * MATLAB)
+
+[comment]: # (* Language)
+
+[comment]: # (  * English)
+
+[comment]: # (  * Chinese)
 
  
 

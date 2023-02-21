@@ -1,6 +1,6 @@
 ---
 title: "Autumnn 2020"
-excerpt: "My life in Autumn 2020 as a UW student <br/><img src='/images/500x300.png'>"
+excerpt: "My life in Autumn 2020 as a UW student"
 collection: portfolio
 ---
 
